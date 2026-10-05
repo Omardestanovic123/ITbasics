@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Persoonlijke website - portfolio en contact">
+    <title>Home | Persoonlijke Website</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <a href="index.html" class="logo">MijnNaam</a>
+            <button class="menu-toggle" id="menuToggle" aria-label="Menu openen">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="pages/over-mij.html">Over mij</a></li>
+                <li><a href="pages/projecten.html">Projecten</a></li>
+                <li><a href="pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Hallo, ik ben <span class="highlight">Omar</span></h1>
+                <p class="subtitle">Creative web developer met passie voor schone code en mooi design.</p>
+                <a href="pages/projecten.html" class="btn btn-primary">Bekijk mijn projecten</a>
+            </div>
+        </section>
+
+        <section class="section about-preview">
+            <div class="container">
+                <h2>Wie ben ik?</h2>
+                <p>Mijn naam is Omar en mijn hobbies zijn voetbal, gamen en schaken</p>
+                <p>Mijn favoriete game is rocket league.</p>
+                <a href="pages/over-mij.html" class="btn btn-secondary">Lees meer</a>
+            </div>
+        </section>
+
+        <section class="section features">
+            <div class="container">
+                <h2>Mijn vaardigheden</h2>
+                <div class="cards">
+                    <article class="card">
+                        <div class="card-icon">HTML</div>
+                        <h3>Semantische HTML</h3>
+                        <p>Toegankelijke en gestructureerde webpagina's.</p>
+                    </article>
+                    <article class="card">
+                        <div class="card-icon">CSS</div>
+                        <h3>Modern CSS</h3>
+                        <p>Responsive design met Flexbox en Grid.</p>
+                    </article>
+                    <article class="card">
+                        <div class="card-icon">JS</div>
+                        <h3>Interactiviteit</h3>
+                        <p>Dynamische elementen met JavaScript.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2026 . Alle rechten voorbehouden.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

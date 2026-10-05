@@ -1,0 +1,45 @@
+/* ---------- Responsive Design ---------- */
+
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: flex;
+    }
+
+    .nav-links {
+        position: absolute;
+        top: 64px;
+        left: 0;
+        right: 0;
+        background-color: var(--color-primary-dark);
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem 0;
+        gap: 0.5rem;
+        display: none;
+    }
+
+    .nav-links.open {
+        display: flex;
+    }
+
+    .nav-links a {
+        padding: 0.75rem 1.5rem;
+        display: block;
+    }
+
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+
+    .cards,
+    .grid-2,
+    .project-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 1024px) {
+    .navbar {
+        padding: 0 1rem;
+    }
+}
