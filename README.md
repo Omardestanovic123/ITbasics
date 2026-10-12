@@ -59,11 +59,10 @@ Gratis te gebruiken voor eigen doeleinden.
 
 1. Analyse: bekeken wat week 2 al had (`index.html`, `pages/projecten.html` met 4 placeholders, `css/style.css`, `js/script.js`).
 2. Specificatie + plan: eerst analyseren en plannen voor programmeren, in kleine stappen werken.
-3. Voorstel OpenCode: 1. Portfolio Website (HTML/CSS/JS), 2. Blokken-pagina (HTML/CSS), 3. Boeking Database (SQL/MySQL).
-4. Beslissing leerling: 1 aanpassen, 2 aanpassen, 3 eerst afwijzen en vervangen door Python-project.
-5. Daarna: geen Python-project nodig, Python-voorstel afgewezen.
-6. Definitief: 1. Portfolio Website, 2. Blokken-pagina, 3. Boeking Database behouden. Naam gepersonaliseerd naar Omar / Omar Destanovic.
-7. Uitgevoerd: alleen `pages/projecten.html` aangepast (titel gehouden, 4 placeholders vervangen door 3 echte kaarten met `project-card`, `h3`, `p` en `tag`). Geen nieuwe functionaliteit toegevoegd.
-8. Test: aantal `project-card` = 3, `h3` = 3, `tag` = 7, navigatie vanuit `index.html` naar `pages/projecten.html` gecontroleerd.
-9. Personalisatie: `pages/over-mij.html` ingevuld (16, Leerdam, Software Development + hobby's), `pages/contact.html` ingevuld (345875@student.mboutrecht.nl + Leerdam, nep-telefoonnummer weg).
-10. Voorstel OpenCode (foto toevoegen als `images/portret.png`) afgewezen door leerling. Gekozen voor CSS-avatar (`avatar-placeholder` in `css/style.css`, initialen O.D.) omdat `images/` leeg was en zo geen broken image meer is. OpenCode stelde extra functionaliteit voor, leerling koos voor zelfde stijl zonder nieuwe JS.
+3. website it hulp peridiode 4. Beslissing leerling: 1 4. 4. aanpassen, 2 aanpassen, 3 eerst afwijzen en vervangen door Python-project.
+4. Daarna: geen Python-project nodig, Python-voorstel afgewezen.
+5. Definitief: website it hulp. Naam gepersonaliseerd naar Omar / Omar Destanovic.
+6. Uitgevoerd: alleen `pages/projecten.html` aangepast (titel gehouden, 4 placeholders vervangen door 3 echte kaarten met `project-card`, `h3`, `p` en `tag`). Geen nieuwe functionaliteit toegevoegd.
+7. Test: aantal `project-card` = 3, `h3` = 3, `tag` = 7, navigatie vanuit `index.html` naar `pages/projecten.html` gecontroleerd.
+8. Personalisatie: `pages/over-mij.html` ingevuld (16, Leerdam, Software Development + hobby's), `pages/contact.html` ingevuld (345875@student.mboutrecht.nl + Leerdam, nep-telefoonnummer weg).
+9. Voorstel OpenCode (foto toevoegen als `images/portret.png`) afgewezen door leerling. Gekozen voor CSS-avatar (`avatar-placeholder` in `css/style.css`, initialen O.D.) omdat `images/` leeg was en zo geen broken image meer is. OpenCode stelde extra functionaliteit voor, leerling koos voor zelfde stijl zonder nieuwe JS.
